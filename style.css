@@ -1,0 +1,38 @@
+header {
+    font-family: 'REVOLUTION', sans-serif;
+    font-weight: regular;
+    text-align: center;
+    font-size: 72pt;
+    color:#1446A0;
+    background-color:#fae8e0;
+}
+
+body {
+    font-family: 'REVOLUTION', sans-serif;
+    font-weight: regular;
+    text-align: center;
+    font-size: 24pt;
+    color:#1446A0;
+    background-color:#fae8e0;
+}
+
+.subheading {
+    font-weight: regular;
+    text-align: center;
+    font-size: 24pt;
+    padding: 50px;
+    color:#1446A0;
+    background-color:#fae8e0;
+}
+
+.line1 {
+    color:#98d7c2
+}
+
+.line2 {
+    color:#167d7f
+}
+
+.line3 {
+    color:#29a0b1
+}
